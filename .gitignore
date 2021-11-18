@@ -14,7 +14,7 @@
 /env/
 MANIFEST
 coverage.*
-
+db.sqlite3
 !.github
 !.gitignore
 !.pre-commit-config.yaml
