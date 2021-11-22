@@ -18,3 +18,4 @@ db.sqlite3
 !.github
 !.gitignore
 !.pre-commit-config.yaml
+settings.py
